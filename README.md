@@ -3,5 +3,5 @@ At the start the user is given the option to play the game or view the rules.  I
 
 The game is navigated using user input. The user will be prompted to hit certin keys for their desired result.
 
-I approached this project with the desire to implement as many concepts as possible. Since I reacently went to a casino myself, I was familer with the rules of blackjack.  I knew I had an old unfinished blackjack program, so I chose to do this as my project and finish what I started.
+I approached this project with the desire to implement as many concepts as possible. Since I reacently went to a casino myself( I won $800 btw ), I was familer with the rules of blackjack.  I knew I had an old unfinished blackjack program, so I chose to do this as my project and finish what I started.
 6/7/2022
